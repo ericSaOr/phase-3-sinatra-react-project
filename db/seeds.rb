@@ -1,4 +1,4 @@
-puts "🌱 Seeding spices..."
+puts "🌱 "
 
 # Seed your database here
 
